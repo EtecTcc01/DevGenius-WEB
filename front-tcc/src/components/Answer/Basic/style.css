@@ -1,0 +1,12 @@
+.App {
+    padding: 20px;
+}
+
+.form{
+
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    gap: 3%;
+}

@@ -1,0 +1,38 @@
+Selects teste
+
+linguagem = course/curso
+dificulty = stage
+operation/ operação = bas 1 / interm 2/ avan 3
+
+
+funcionando
+login
+Cadastro
+Curso - add/up/del
+teoria - || || ||
+stage  - || || ||
+task  -  || || ||
+AnswerB -|| || ||
+AnswerI -|| || ||
+AnswerA -|| || ||
+
+
+
+
+SELECT * FROM tbl_user;
+SELECT * FROM tbl_group;
+SELECT * FROM tbl_course;
+SELECT * FROM tbl_teory;
+SELECT * FROM tbl_stage;
+SELECT * FROM tbl_task;
+SELECT * FROM tbl_operation;
+SELECT * FROM tbl_answer_basic;
+SELECT * FROM tbl_answer_intermediary;
+SELECT * FROM tbl_answer_advanced;
+
+
+curso id 7
+teory id 8
+stage id 8
+task  id - bas 13 - op 1 / inter 14 - op 2 / adv 15 - op 3
+answer 		B7		I 6		A 3	
